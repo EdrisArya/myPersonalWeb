@@ -1,0 +1,17 @@
+
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.container>*{
+    width: 80%;
+}
+.align-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.align-container>*{
+    height: 80%;
+}
